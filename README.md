@@ -1,6 +1,6 @@
 # Neavil Porus A
 
-**AI/ML Research Engineer | Artificial Intelligence | Systems | Hardware**
+**AI/ML Research Engineer (Member of Research Staff) | Artificial Intelligence | Systems | Hardware**
 
 I am an AI/ML engineer and researcher working at the intersection of **Artificial Intelligence, Machine Learning, Systems, and Hardware**.
 
