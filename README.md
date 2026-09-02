@@ -103,3 +103,9 @@ I am interested in research and engineering problems that require understanding 
 <p align="center">
   <sub>Building intelligent systems across the AI, systems, and hardware stack.</sub>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/learnerneavil-max/learnerneavil-max/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/learnerneavil-max/learnerneavil-max/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/learnerneavil-max/learnerneavil-max/output/github-contribution-grid-snake.svg">
+</picture>
