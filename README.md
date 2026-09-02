@@ -87,7 +87,7 @@ I am interested in research and engineering problems that require understanding 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wise-Coder05&show_icons=true&theme=transparent" height="160">
+  <img src="https://readmeforge.natrajx.in/api/banner?text=NEAVIL+PORUS+A&subtext=AI%2FML+RESEARCH+ENGINEER+%7C+AI+%C3%97+SYSTEMS+%C3%97+HARDWARE&metal=slate&type=wave&width=1000" width="100%" alt="Neavil Porus A">
 </p>
 
 ---
